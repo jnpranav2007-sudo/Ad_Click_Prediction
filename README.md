@@ -68,7 +68,7 @@ I’m excited to build more advanced projects in the future using techniques lik
 - **Report PDF:** `Ad_Click_Prediction_Report.pdf`  
 
 📎 View the full project here:  
-👉 [https://github.com/your-username/Ad_Click_Prediction_Project](https://github.com/your-username/Ad_Click_Prediction_Project)
+
 
 ---
 
