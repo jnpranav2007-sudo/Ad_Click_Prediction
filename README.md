@@ -74,6 +74,6 @@ I’m excited to build more advanced projects in the future using techniques lik
 ---
 
 ## 👨‍💻 Author
-**Bhavish Ammiraju**  
+**Naga Pranav Jayanty**  
 B.Tech 1st Year | First Project  
 💡 Passionate about AI, Machine Learning, and Technology Innovation
